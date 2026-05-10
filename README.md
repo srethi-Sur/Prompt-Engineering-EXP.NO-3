@@ -4,6 +4,7 @@ Aim: To write the prompts for the following prompt types for 2 different scenari
 
 1.Straightforward Prompts
 
+
 2.Tabular Format Prompting
 
 3.Preceding Question Prompting
@@ -43,5 +44,5 @@ Missing Word Prompting:
 • "In photosynthesis, plants absorb sunlight to produce ____."
 
 OUTPUT:
-
+[PROMPT ENGG EXP 3.docx](https://github.com/user-attachments/files/27564075/PROMPT.ENGG.EXP.3.docx)
 RESULT: 
