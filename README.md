@@ -1,3 +1,4 @@
+
 EX.NO:3 Exploring the different types of prompts- Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
 
 Aim: To write the prompts for the following prompt types for 2 different scenarios of Each type.
@@ -43,5 +44,5 @@ Missing Word Prompting:
 • "In photosynthesis, plants absorb sunlight to produce ____."
 
 OUTPUT:
-
+[PROMPT ENGG EXP 3.docx](https://github.com/user-attachments/files/27564091/PROMPT.ENGG.EXP.3.docx)
 RESULT: 
